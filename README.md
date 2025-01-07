@@ -1,4 +1,4 @@
-# fluid-flow-visualizer
+# Fluid Flow Visualizer using MATLAB
 An interactive MATLAB project visualizing different types of fluid flow (vortex, laminar, and rotational).
 
 https://github.com/user-attachments/assets/78767e05-3a25-49e4-ab0c-a9d0de766d54
